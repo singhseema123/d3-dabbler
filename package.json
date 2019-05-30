@@ -1,0 +1,24 @@
+{
+  "name": "d3-dabbler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/singhseema123/d3-dabbler.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/singhseema123/d3-dabbler/issues"
+  },
+  "homepage": "https://github.com/singhseema123/d3-dabbler#readme",
+  "dependencies": {
+    "mysql": "^2.17.1"
+  }
+}
